@@ -1,8 +1,9 @@
-package com.example.jimmy.recordwodappv2
+package com.example.jimmy.recordwodappv2.main
 
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView
 import android.support.v7.app.AppCompatActivity
+import com.example.jimmy.recordwodappv2.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
